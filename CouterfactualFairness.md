@@ -10,13 +10,13 @@
     - 優しく説明してくれている
 
 
-# CFML関連のライブラリの紹介
+## CFML関連のライブラリの紹介
 - https://speakerdeck.com/kazk1018/cfml-number-3-libraries
 - CyberAgent 谷口和輝さん
   - DoWhyなどのライブラリを紹介
 
 
-# Counterfactual Machine Learning 入門
+## Counterfactual Machine Learning 入門
 - https://speakerdeck.com/kazk1018/introduction-to-counterfactual-ml
 - CyberAgent 谷口和輝さん
 
