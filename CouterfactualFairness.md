@@ -1,3 +1,11 @@
+以下が混在している。整理したい。
+
+- Counterfactual Machine Learning
+- Counterfactual fairness
+- 統計的因果推論
+
+
+
 # Counterfactual Machine Learning
 
 ### 以下の点が不明
