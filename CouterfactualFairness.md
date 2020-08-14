@@ -29,7 +29,13 @@
 - CyberAgent 谷口和輝さん
 
 
-# 統計的因果推論への招待
+## DiCE: 反実仮想サンプルによる機械学習モデルの解釈/説明手法
+- https://qiita.com/OpenJNY/items/ef885c357b4e0a1551c0
+- OpenJNYさんによる、Microsoft Research blogの解説記事
+  - 
+
+
+## 統計的因果推論への招待
 - 清水昌平さん
 - https://www.slideshare.net/sshimizu2006/ss-77876940
   - とてもやさしくてわかりやすい
