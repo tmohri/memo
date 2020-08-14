@@ -20,3 +20,10 @@
 - https://speakerdeck.com/kazk1018/introduction-to-counterfactual-ml
 - CyberAgent 谷口和輝さん
 
+
+# 統計的因果推論への招待
+- 清水昌平さん
+- https://www.slideshare.net/sshimizu2006/ss-77876940
+  - とてもやさしくてわかりやすい
+  
+  
